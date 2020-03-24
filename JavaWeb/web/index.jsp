@@ -8,7 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>哈哈哈哈</title>
+    <title>哈哈哈</title>
 </head>
 <body>
 <h1 style="color: orangered">IDEA好强大</h1>
